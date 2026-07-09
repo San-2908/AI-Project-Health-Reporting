@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+openpyxl
+pydantic
+langchain
+langchain-openai
+python-pptx
+python-dotenv
+pydantic-settings
+pytest
